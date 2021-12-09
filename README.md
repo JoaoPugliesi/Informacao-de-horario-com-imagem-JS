@@ -1,1 +1,1 @@
-# Informacao-de-horario-com-imagem-JS
+# Informação das horas no navegador com imagem
